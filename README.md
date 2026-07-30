@@ -122,8 +122,8 @@ This project demonstrates an end-to-end Data Analytics workflow—from cleaning 
 Hi, I'm **Sonal Wadekar**, an aspiring **Data Analyst** with around **6 years of professional experience** in reporting, KPI monitoring, operational analysis, and stakeholder collaboration. I have upskilled in **SQL, Python, Excel, and Tableau**, and I enjoy transforming data into actionable business insights through analytics and visualization.
 
 **GitHub:** https://github.com/sonalwadekar15
-
 **LinkedIn:** www.linkedin.com/in/sonalwadekar
+
 ---
 
 ## ⭐ Thank You
