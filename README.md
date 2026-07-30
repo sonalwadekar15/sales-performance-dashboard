@@ -41,9 +41,11 @@ The objective of this project is to analyze historical retail sales data to:
 
 ## 📊 Dashboard Preview
 
-[SalesPerformanceDashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17854384840060/SalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 ![Sales Dashboard](Images/Dashboard%20Screenshot.png)
+
+
+
+[SalesPerformanceDashboard](https://public.tableau.com/views/SalesPerformanceDashboard_17854384840060/SalesPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
